@@ -1,0 +1,5 @@
+__pycache__
+myenv
+loginapp.sqlite
+/login/static
+.DS_Store
